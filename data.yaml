@@ -1,0 +1,7 @@
+path: D:/HCCDA-AI/Week-3/job_4493434_annotations_2026_09_20_11_26_47_yolo 1.1
+train: images/train
+val: images/train
+
+names:
+  0: Machines
+  1: Persons
